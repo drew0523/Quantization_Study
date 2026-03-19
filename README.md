@@ -13,8 +13,11 @@
 
 ## 🗂️ Structure
 papers/
+
 ├── [paper_name]/
+
 │ ├── note.md # 논문 정리
+
 │ └── summary.pdf # (선택) 개인 정리 자료
 
 
