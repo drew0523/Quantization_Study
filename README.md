@@ -12,6 +12,7 @@
 ---
 
 ## 🗂️ Structure
+```
 papers/
 ├── PTQ/
 │ ├── [paper_name]/
@@ -22,7 +23,7 @@ papers/
 │ ├── [paper_name]/
 │ │ ├── note.md
 │ │ └── summary.pdf
-
+```
 ---
 
 ## 📖 Study Map
